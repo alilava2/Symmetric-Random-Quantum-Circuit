@@ -1,5 +1,9 @@
 # Symmetric Random Clifford Circuit Simulator
 
+
+[![DOI](https://zenodo.org/badge/286619735.svg)](https://zenodo.org/badge/latestdoi/286619735)
+
+
 Classical Simulation of Symmetric Random Clifford Circuits, using Gottesman-Knill theorem.
 
 This code is used to carry out the simulations in "Measurement-induced topological entanglement transitions in symmetric random quantum circuits" paper, availabe at https://arxiv.org/abs/2004.07243. In case you use this code in another project, please aknowledge the funding sources mentioned in the paper, and cite the work accordidngly.
